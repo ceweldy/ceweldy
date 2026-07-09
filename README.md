@@ -4,7 +4,7 @@
 
 I build practical software at the intersection of **AI agents, manufacturing, and commerce**—tools that remove operational friction and ship into real workflows.
 
-I lead **Iron Saddle Armory** and **Apis Dynamics**, am completing my MBA at the **University of Central Florida**, and hold a B.S. in Computer Science from **Western Governors University**.
+I lead **Iron Saddle Armory** and **Apis Dynamics**, with an MBA at the **University of Central Florida**, and hold a B.S. in Computer Science from **Western Governors University**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
