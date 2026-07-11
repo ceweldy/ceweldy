@@ -17,7 +17,6 @@ I lead **Iron Saddle Armory** and **Apis Dynamics**, with an MBA at the **Univer
 
 - 🔐 **[Bitwarden Agent Vault MCP](https://github.com/ceweldy/bitwarden-agent-vault-mcp)** — A Codex plugin and local MCP server for least-privilege agent credential workflows.
 - 🖥️ **[Codex Menu Bar Dashboard](https://github.com/ceweldy/codex-menu-bar-dashboard)** — A native macOS dashboard for Codex usage, local development servers, and remote-host controls.
-- 🛒 **[FFL Bridge for WooCommerce](https://github.com/ceweldy/ffl-bridge-woocommerce)** — A WooCommerce plugin that adds searchable FFL dealer selection to checkout.
 
 ## What I'm Building
 
