@@ -2,7 +2,7 @@
 
 **Founder, operator, and software builder in Ormond Beach, Florida.**
 
-I build practical software at the intersection of **AI agents, manufacturing, and commerce**—tools that remove operational friction and ship into real workflows.
+I build practical software at the intersection of **AI agents, manufacturing, and commerce**: tools that remove operational friction and ship into real workflows.
 
 I lead **Iron Saddle Armory** and **Apis Dynamics**, with an MBA at the **University of Central Florida**, and hold a B.S. in Computer Science from **Western Governors University**.
 
@@ -15,8 +15,8 @@ I lead **Iron Saddle Armory** and **Apis Dynamics**, with an MBA at the **Univer
 
 ## Start Here
 
-- 🔐 **[Bitwarden Agent Vault MCP](https://github.com/ceweldy/bitwarden-agent-vault-mcp)** — A Codex plugin and local MCP server for least-privilege agent credential workflows.
-- 🖥️ **[Codex Menu Bar Dashboard](https://github.com/ceweldy/codex-menu-bar-dashboard)** — A native macOS dashboard for Codex usage, local development servers, and remote-host controls.
+- 🔐 **[Bitwarden Agent Vault MCP](https://github.com/ceweldy/bitwarden-agent-vault-mcp)**: A Codex plugin and local MCP server for least-privilege agent credential workflows.
+- 🖥️ **[Codex Menu Bar Dashboard](https://github.com/ceweldy/codex-menu-bar-dashboard)**: A native macOS dashboard for Codex usage, local development servers, and remote-host controls.
 - 🖨️ **[Bambu Printer MCP](https://github.com/ceweldy/bambu-printer-mcp)**: A privacy-conscious multi-printer MCP server for monitoring and controlling Bambu Lab 3D printers.
 - 🧭 **[Agent Workbench for FreeCAD](https://github.com/ceweldy/FreeCAD-Agent-Workbench)**: An open agent-based FreeCAD workbench with Codex integration, bounded CAD tools, crash-safe checkpoints, and durable project memory.
 
@@ -48,9 +48,9 @@ I lead **Iron Saddle Armory** and **Apis Dynamics**, with an MBA at the **Univer
 
 ## Background
 
-- **Founder / Operator** — Iron Saddle Armory & Apis Dynamics
-- **MBA Candidate** — University of Central Florida
-- **B.S., Computer Science** — Western Governors University
+- **Founder / Operator**: Iron Saddle Armory & Apis Dynamics
+- **MBA Candidate**: University of Central Florida
+- **B.S., Computer Science**: Western Governors University
 - **U.S. Navy Veteran**
 
 ## Connect
