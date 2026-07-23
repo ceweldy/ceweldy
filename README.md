@@ -17,6 +17,7 @@ I lead **Iron Saddle Armory** and **Apis Dynamics**, with an MBA at the **Univer
 
 - 🔐 **[Bitwarden Agent Vault MCP](https://github.com/ceweldy/bitwarden-agent-vault-mcp)** — A Codex plugin and local MCP server for least-privilege agent credential workflows.
 - 🖥️ **[Codex Menu Bar Dashboard](https://github.com/ceweldy/codex-menu-bar-dashboard)** — A native macOS dashboard for Codex usage, local development servers, and remote-host controls.
+- 🖨️ **[Bambu Printer MCP](https://github.com/ceweldy/bambu-printer-mcp)**: A privacy-conscious multi-printer MCP server for monitoring and controlling Bambu Lab 3D printers.
 
 ## What I'm Building
 
